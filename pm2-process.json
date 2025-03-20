@@ -1,0 +1,11 @@
+{
+    "apps": [
+      {
+        "name": "whoxa",
+        "script": "./index.js",
+        "watch": true,
+        "ignore_watch": ["uploads", "node_modules"]
+      }
+    ]
+  }
+  
