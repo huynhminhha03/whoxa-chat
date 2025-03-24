@@ -2,6 +2,7 @@ const axios = require("axios");
 const capitalizeFirstLetter = require("./capitalizeFirstLetter");
 
 async function pushCallNotificationOneSignal(notificationData) {
+  // console.log("notificationData", notificationData);
   let message = {
     app_id: process.env.ONESIGNAL_APPID, // Include the app_id here
     include_player_ids: [notificationData.one_signal_player_id],
@@ -12,7 +13,7 @@ async function pushCallNotificationOneSignal(notificationData) {
     // android_sound: "default",
     // collapse_id: `call_${notificationData.senderId}_${notificationData.conversation_id}`, // Unique collapse ID for the call notifications
   };
-
+  console.log("message", message);
   // Conditional logic for setting contents and headings
   if (notificationData.missed_call == true) {
     // Missed call scenariop
@@ -58,6 +59,7 @@ async function pushCallNotificationOneSignal(notificationData) {
 
 async function sendRequest(message) {
   try {
+    console.log("message", message);
     // const response = await client.createNotification(message);
     const response = await axios.post(
       "https://onesignal.com/api/v1/notifications",
@@ -69,6 +71,7 @@ async function sendRequest(message) {
         },
       }
     );
+    console.log(response.data, "response from onesignal");
     console.log(
       "Successfully sent notifications:========================================================="
     );

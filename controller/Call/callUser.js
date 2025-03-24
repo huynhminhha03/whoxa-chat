@@ -194,6 +194,7 @@ const callUser = async (req, res) => {
         notificationData.call_id = newCallDetails.dataValues.call_id;
         notificationData.conversation_id = conversation_id;
       }
+      
 
       pushCallNotificationOneSignal(notificationData);
       // console.log(notificationData);

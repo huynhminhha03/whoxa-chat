@@ -10,6 +10,11 @@ module.exports = (sequelize, DataTypes) => {
       type: DataTypes.STRING,
       defaultValue: "",
     },
+    firebase_uid: {
+      type: DataTypes.STRING,
+      allowNull: true, // Có thể null, vì không phải user nào cũng dùng Firebase Auth
+      unique: true, // Mỗi user có một UID Firebase duy nhất
+    },
     // email_id: {
     //   type: DataTypes.STRING,
     //   defaultValue: "",

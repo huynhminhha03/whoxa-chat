@@ -14,6 +14,7 @@ const path = require("path");
 const socketIo = require("socket.io");
 const app = express();
 const server = http.createServer(app);
+
 const {
   UserSocket,
   Language_status
@@ -205,6 +206,7 @@ app.get("/admin", async (_0x3541de, _0x315bd6) => {
   }
 });
 app.use("/api", no_auth_route);
+
 const handleUserSocketAssociation = async (_0x155391, _0x1447fd) => {
   let _0x5bb2d6 = _0x155391.handshake.query.token;
   let _0xe0cffb;
@@ -237,14 +239,14 @@ socketService.initSocket(io);
 app.use("/api", authMiddleware, auth_routes);
 app.use("/api", authMiddleware, admin_routes);
 app.get("*", (_0x2fa79f, _0x24fa08) => {
-  _0x24fa08.sendFile(path.join(__dirname, "frontend", "index.html"));
+_0x24fa08.sendFile(path.join(__dirname, "frontend", "index.html"));
 });
 app.use((_0x359891, _0x4e1da1, _0x1a907e, _0x5b8ab7) => {
-  console.error(_0x359891.stack);
-  _0x1a907e.status(0x1f4).json({
-    message: "Something went wrong!",
-    success: false
-  });
+console.error(_0x359891.stack);
+_0x1a907e.status(0x1f4).json({
+message: "Something went wrong!",
+success: false
+});
 });
 const {
   addLanguageColumn,

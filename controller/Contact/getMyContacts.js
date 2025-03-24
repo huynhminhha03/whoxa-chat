@@ -108,7 +108,6 @@ const getMyContacts = async (req, res) => {
       //   where: { user_id },
       //   attributes: ["phone_number"],
       // });
-
       // updatedFields = {
       //   [Op.or]: [
       //     { user_id: user_id },
@@ -125,7 +124,7 @@ const getMyContacts = async (req, res) => {
     const savedContacts = await AllContact.findAll({
       where: updatedFields,
       attributes: ["contact_id", "phone_number", "full_name", "user_id"],
-      group: ["phone_number"],
+      group: ["contact_id", "phone_number", "full_name", "user_id"],
       limit,
       offset,
     });
@@ -133,7 +132,7 @@ const getMyContacts = async (req, res) => {
     const allContacts = await AllContact.findAll({
       where: updatedFields.full_name ? updatedFields : {},
       attributes: ["contact_id", "phone_number", "full_name", "user_id"],
-      group: ["phone_number"],
+      group: ["contact_id", "phone_number", "full_name", "user_id"],
       limit,
       offset,
     });

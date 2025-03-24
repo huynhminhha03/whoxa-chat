@@ -353,7 +353,7 @@ async function TranslateAllKeywords(req, res) {
     // Make a POST request to the FastAPI API
     const apiUrl = "http://62.72.36.245:3692/translate/";
     const response = await axios.post(apiUrl, requestData);
-
+    console.log("Response from FastAPI:", response.data);
     // Handle the response from the FastAPI API
     const translatedData = response.data.translated_data;
 

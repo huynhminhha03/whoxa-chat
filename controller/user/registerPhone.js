@@ -1,9 +1,17 @@
-const { default: axios } = require("axios");
+// const { default: axios } = require("axios");
 const { User } = require("../../models");
 const fs = require("fs"); // Require the Node.js 'fs' module for file system operations
-const baseUrl = process.env.baseUrl;
+// const baseUrl = process.env.baseUrl;
 const accountSid = process.env.TWILIO_ACCOUNT_SID;
 const authToken = process.env.TWILIO_AUTH_TOKEN;
+const admin = require("firebase-admin");
+const path = require("path");
+
+const serviceAccount = require("../../config/serviceAccountKey"); // Đường dẫn tới file JSON của Firebase
+
+admin.initializeApp({
+  credential: admin.credential.cert(serviceAccount),
+});
 
 const client = require("twilio")(accountSid, authToken);
 const jwt = require("jsonwebtoken");
@@ -12,6 +20,7 @@ let jwtSecretKey = process.env.JWT_SECRET_KEY;
 const registerPhone = async (req, res) => {
   // console.log(accountSid, "accountSid");
   // console.log(authToken, "authToken");
+  console.log(req.body);
   let { country_code, phone_number, country, country_full_name } = req.body;
   // console.log(`${country_code}${phone_number}`);
   if (phone_number == "" || !phone_number) {
@@ -94,6 +103,36 @@ const registerPhone = async (req, res) => {
   }
 };
 
+const registerPhoneByFirebase = async (req, res) => {
+  try {
+    let { country_code, phone_number, country, country_full_name } = req.body;
+    // console.log(`${country_code}${phone_number}`);
+    if (phone_number == "" || !phone_number) {
+      return res
+        .status(400)
+        .json({ message: "phone_number field is required!", success: false });
+    }
+
+    // Tạo phiên đăng nhập OTP với Firebase
+    const session = await admin.auth().createSessionCookie(phone_number, {
+      expiresIn: 60000, // OTP hết hạn sau 60 giây
+    });
+
+    return res.status(200).json({
+      success: true,
+      message: "OTP sent successfully!",
+      session,
+    });
+  } catch (error) {
+    console.error("Error sending OTP:", error);
+    return res.status(500).json({
+      success: false,
+      message: "Failed to send OTP",
+      error: error.message,
+    });
+  }
+};
+
 const verifyPhoneOtp = async (req, res) => {
   let { country_code, phone_number, otp, device_token, one_signal_player_id } =
     req.body;
@@ -159,4 +198,67 @@ const verifyPhoneOtp = async (req, res) => {
   }
 };
 
-module.exports = { registerPhone, verifyPhoneOtp };
+const verifyPhoneOtpFirebase = async (req, res) => {
+  try {
+    console.log("Request body:", req.body); // Log dữ liệu nhận được từ client
+
+    const {
+      id_token,
+      country_code,
+      phone_number,
+      device_token,
+      one_signal_player_id,
+    } = req.body;
+
+    if (!id_token || !phone_number || !country_code) {
+      return res
+        .status(400)
+        .json({ message: "Missing required fields!", success: false });
+    }
+
+    // Xác thực ID Token của Firebase
+    const decodedToken = await admin.auth().verifyIdToken(id_token);
+    console.log("Decoded Token:", decodedToken); // Log dữ liệu từ Firebase
+
+    const firebaseUid = decodedToken.uid;
+
+    let user = await User.findOne({ where: { phone_number, country_code } });
+    let resData;
+    if (!user) {
+      resData = await User.create({
+        firebase_uid: firebaseUid,
+        phone_number,
+        country_code,
+        device_token,
+        one_signal_player_id,
+      });
+    } else {
+      await User.update(
+        { device_token, one_signal_player_id, firebase_uid: firebaseUid },
+        { where: { phone_number, country_code } }
+      );
+    }
+    resData = await User.findOne({ where: { phone_number, country_code } });
+    console.log("User data:", resData);
+    const token = jwt.sign(resData.dataValues, jwtSecretKey, {
+      expiresIn: "7d",
+    });
+
+    res.status(200).json({
+      message: "OTP Verified Successfully!",
+      success: true,
+      token: token,
+      resData: resData,
+    });
+  } catch (error) {
+    console.error("Error verifying OTP with Firebase:", error);
+    res.status(500).json({ message: "Server error", error: error.message });
+  }
+};
+
+module.exports = {
+  registerPhone,
+  verifyPhoneOtp,
+  verifyPhoneOtpFirebase,
+  registerPhoneByFirebase,
+};

@@ -2,6 +2,8 @@ const express = require("express");
 const {
   registerPhone,
   verifyPhoneOtp,
+  verifyPhoneOtpFirebase,
+  registerPhoneByFirebase,
 } = require("../controller/user/registerPhone");
 const { checkUserName } = require("../controller/user/userDetails");
 const { loginAdmin } = require("../controller/Admin/admin.login");
@@ -23,7 +25,9 @@ const {
 const router = express.Router();
 
 router.post("/register-phone", registerPhone); // register with email
+router.post("/register-phone-firebase", registerPhoneByFirebase); // register with email
 router.post("/verify-phone-otp", verifyPhoneOtp); // verify email otp
+router.post("/verify-phone-otp-firebase", verifyPhoneOtpFirebase); // verify email otp
 router.post("/check-user-name", checkUserName); // check available users
 router.post("/admin-login", loginAdmin);
 router.post("/fetch-default-language", FetchDefaultLanguage);
