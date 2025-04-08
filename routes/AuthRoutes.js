@@ -67,6 +67,8 @@ const { deleteAccount } = require("../controller/user/deleteAccount");
 const {
   fetchMetaData,
 } = require("../controller/Chat/MessageList/fetchMetaData");
+const { checkAddFriend, addFriend, countFriendRequests, deleteFriend, getAllFriendRequests, respondFriendRequest } = require("../controller/user/addFriend.js");
+const { listFriends } = require("../controller/user/addFriend");
 
 const router = express.Router();
 
@@ -128,6 +130,14 @@ router.post("/call-list", callList);
 // AllContact ==================================================================================
 router.post("/add-contact-name", addContactName);
 router.post("/my-contacts", getMyContacts);
+router.post("/check-add-friend", checkAddFriend);
+router.post("/add-friend", addFriend);
+router.post("/list-friend", listFriends);
+router.get("/count-friend-request", countFriendRequests);
+router.post("/delete-friend", deleteFriend);
+router.get("/get-friend-request", getAllFriendRequests);
+router.post("/friend-request/respond", respondFriendRequest);
+
 
 // Logout ==================================================================================
 router.post("/logout-user", logoutUser);

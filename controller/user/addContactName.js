@@ -2,7 +2,6 @@ const jwt = require("jsonwebtoken");
 const { AllContact, User } = require("../../models");
 const { Op, where } = require("sequelize");
 let jwtSecretKey = process.env.JWT_SECRET_KEY;
-
 const addContactName = async (req, res) => {
   let { phone_number, full_name } = req.body;
 

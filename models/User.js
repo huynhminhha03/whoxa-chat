@@ -190,6 +190,16 @@ module.exports = (sequelize, DataTypes) => {
     User.hasMany(models.Call, {
       foreignKey: "user_id",
     });
+
+    User.hasMany(models.isFriend, {
+      foreignKey: "user_id_1", // user gửi lời mời kết bạn
+      as: "sentRequests",
+    });
+    
+    User.hasMany(models.isFriend, {
+      foreignKey: "user_id_2", // user nhận lời mời
+      as: "receivedRequests",
+    });
   };
 
   return User;

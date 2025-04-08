@@ -1,0 +1,1442 @@
+[
+  {
+    "setting_id": 1,
+    "key": "Unimonollc",
+    "English": "Unimonollc",
+    "createdAt": "2025-03-18 09:33:16",
+    "updatedAt": "2025-03-18 09:33:16",
+    "Việt Nam": "Unimonollc"
+  },
+  {
+    "setting_id": 2,
+    "key": "Stay connected with your friends and family",
+    "English": "Stay connected with your friends and family",
+    "createdAt": "2025-03-18 09:33:16",
+    "updatedAt": "2025-03-18 09:33:16",
+    "Việt Nam": "Giữ kết nối với bạn bè và gia đình"
+  },
+  {
+    "setting_id": 3,
+    "key": "To continue, check ",
+    "English": "To continue, check ",
+    "createdAt": "2025-03-18 09:33:16",
+    "updatedAt": "2025-03-18 09:33:16",
+    "Việt Nam": "Để tiếp tục, hãy kiểm tra "
+  },
+  {
+    "setting_id": 4,
+    "key": "Privacy Policy",
+    "English": "Privacy Policy",
+    "createdAt": "2025-03-18 09:33:16",
+    "updatedAt": "2025-03-18 09:33:16",
+    "Việt Nam": "Chính sách quyền riêng tư"
+  },
+  {
+    "setting_id": 5,
+    "key": " and ",
+    "English": " and ",
+    "createdAt": "2025-03-18 09:33:16",
+    "updatedAt": "2025-03-18 09:33:16",
+    "Việt Nam": " và "
+  },
+  {
+    "setting_id": 6,
+    "key": "Terms & Conditions.",
+    "English": "Terms & Conditions.",
+    "createdAt": "2025-03-18 09:33:16",
+    "updatedAt": "2025-03-18 09:33:16",
+    "Việt Nam": "Điều khoản & Điều kiện."
+  },
+  {
+    "setting_id": 7,
+    "key": "Allow check to continue privacy policy and term condition",
+    "English": "Allow check to continue privacy policy and term condition",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Cho phép kiểm tra để tiếp tục chính sách quyền riêng tư và điều khoản"
+  },
+  {
+    "setting_id": 8,
+    "key": "Get Started",
+    "English": "Get Started",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Bắt đầu"
+  },
+  {
+    "setting_id": 9,
+    "key": "OTP SENT SUCESSFULLY",
+    "English": "OTP SENT SUCESSFULLY",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Mã OTP đã được gửi thành công"
+  },
+  {
+    "setting_id": 10,
+    "key": "Enter valid Phone number",
+    "English": "Enter valid Phone number",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Nhập số điện thoại hợp lệ"
+  },
+  {
+    "setting_id": 11,
+    "key": "Enter Phone number",
+    "English": "Enter Phone number",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Nhập số điện thoại"
+  },
+  {
+    "setting_id": 12,
+    "key": "Something went wrong while sending OTP",
+    "English": "Something went wrong while sending OTP",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Đã xảy ra lỗi khi gửi mã OTP"
+  },
+  {
+    "setting_id": 13,
+    "key": "Send OTP",
+    "English": "Send OTP",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Gửi mã OTP"
+  },
+  {
+    "setting_id": 14,
+    "key": "Enter valid mobile number",
+    "English": "Enter valid mobile number",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Nhập số điện thoại hợp lệ"
+  },
+  {
+    "setting_id": 15,
+    "key": "Hello welcome to chat app",
+    "English": "Hello welcome to chat app",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Xin chào, chào mừng đến với ứng dụng chat"
+  },
+  {
+    "setting_id": 16,
+    "key": "Mobile Number",
+    "English": "Mobile Number",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Số điện thoại"
+  },
+  {
+    "setting_id": 17,
+    "key": "We will send you 6 digit code on the given phone number",
+    "English": "We will send you 6 digit code on the given phone number",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Chúng tôi sẽ gửi mã 6 chữ số đến số điện thoại đã nhập"
+  },
+  {
+    "setting_id": 18,
+    "key": "OTP sent Succesfully",
+    "English": "OTP sent Succesfully",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Mã OTP đã được gửi thành công"
+  },
+  {
+    "setting_id": 19,
+    "key": "Please resend OTP",
+    "English": "Please resend OTP",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Vui lòng gửi lại mã OTP"
+  },
+  {
+    "setting_id": 20,
+    "key": "Login",
+    "English": "Login",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Đăng nhập"
+  },
+  {
+    "setting_id": 21,
+    "key": "Please Enter OTP",
+    "English": "Please Enter OTP",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Vui lòng nhập mã OTP"
+  },
+  {
+    "setting_id": 22,
+    "key": "6 digit OTP has been sent to",
+    "English": "6 digit OTP has been sent to",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Mã OTP 6 chữ số đã được gửi đến"
+  },
+  {
+    "setting_id": 23,
+    "key": "Wait for a  00",
+    "English": "Wait for a  00",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Vui lòng đợi 00"
+  },
+  {
+    "setting_id": 24,
+    "key": "Resend OTP",
+    "English": "Resend OTP",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Gửi lại mã OTP"
+  },
+  {
+    "setting_id": 25,
+    "key": "Resend Code in 00",
+    "English": "Resend Code in 00",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Gửi lại mã trong 00"
+  },
+  {
+    "setting_id": 26,
+    "key": "CANNOT VERIFY OTP",
+    "English": "CANNOT VERIFY OTP",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Không thể xác minh mã OTP"
+  },
+  {
+    "setting_id": 27,
+    "key": "Error",
+    "English": "Error",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Lỗi"
+  },
+  {
+    "setting_id": 28,
+    "key": "No Internet Connection",
+    "English": "No Internet Connection",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Không có kết nối Internet"
+  },
+  {
+    "setting_id": 29,
+    "key": "Success",
+    "English": "Success",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Thành công"
+  },
+  {
+    "setting_id": 30,
+    "key": "Profile",
+    "English": "Profile",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Hồ sơ"
+  },
+  {
+    "setting_id": 31,
+    "key": "Please enter username",
+    "English": "Please enter username",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Vui lòng nhập tên người dùng"
+  },
+  {
+    "setting_id": 32,
+    "key": "Please enter first name",
+    "English": "Please enter first name",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Vui lòng nhập tên"
+  },
+  {
+    "setting_id": 33,
+    "key": "Please enter last name",
+    "English": "Please enter last name",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Vui lòng nhập họ"
+  },
+  {
+    "setting_id": 34,
+    "key": "Gender",
+    "English": "Gender",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Giới tính"
+  },
+  {
+    "setting_id": 35,
+    "key": "Male",
+    "English": "Male",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Nam"
+  },
+  {
+    "setting_id": 36,
+    "key": "Female",
+    "English": "Female",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Nữ"
+  },
+  {
+    "setting_id": 37,
+    "key": "Username",
+    "English": "Username",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Tên người dùng"
+  },
+  {
+    "setting_id": 38,
+    "key": "Last Name",
+    "English": "Last Name",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Họ"
+  },
+  {
+    "setting_id": 39,
+    "key": "Upload Image",
+    "English": "Upload Image",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Tải ảnh lên"
+  },
+  {
+    "setting_id": 40,
+    "key": "Take Picture",
+    "English": "Take Picture",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Chụp ảnh"
+  },
+  {
+    "setting_id": 41,
+    "key": "From Gallery",
+    "English": "From Gallery",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Từ thư viện"
+  },
+  {
+    "setting_id": 42,
+    "key": "First Name",
+    "English": "First Name",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Tên"
+  },
+  {
+    "setting_id": 43,
+    "key": "Country",
+    "English": "Country",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Quốc gia"
+  },
+  {
+    "setting_id": 44,
+    "key": "Phone",
+    "English": "Phone",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Điện thoại"
+  },
+  {
+    "setting_id": 45,
+    "key": "Camera",
+    "English": "Camera",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Máy ảnh"
+  },
+  {
+    "setting_id": 46,
+    "key": "Photo & Video Library",
+    "English": "Photo & Video Library",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Thư viện ảnh & video"
+  },
+  {
+    "setting_id": 47,
+    "key": "Cancel",
+    "English": "Cancel",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Hủy"
+  },
+  {
+    "setting_id": 48,
+    "key": "Chats",
+    "English": "Chats",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Tin nhắn"
+  },
+  {
+    "setting_id": 49,
+    "key": "New Group",
+    "English": "New Group",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Nhóm mới"
+  },
+  {
+    "setting_id": 50,
+    "key": "Search",
+    "English": "Search",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Tìm kiếm"
+  },
+  {
+    "setting_id": 51,
+    "key": "Archived",
+    "English": "Archived",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Lưu trữ"
+  },
+  {
+    "setting_id": 52,
+    "key": "Archive chat",
+    "English": "Archive chat",
+    "createdAt": "2025-03-18 09:33:17",
+    "updatedAt": "2025-03-18 09:33:17",
+    "Việt Nam": "Lưu trữ cuộc trò chuyện"
+  },
+  {
+    "setting_id": 53,
+    "key": "Block",
+    "English": "Block",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Chặn"
+  },
+  {
+    "setting_id": 54,
+    "key": "Unblock",
+    "English": "Unblock",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Bỏ chặn"
+  },
+  {
+    "setting_id": 55,
+    "key": "Chatapp",
+    "English": "Chatapp",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Ứng dụng chat"
+  },
+  {
+    "setting_id": 56,
+    "key": "Document",
+    "English": "Document",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Tài liệu"
+  },
+  {
+    "setting_id": 57,
+    "key": " Contact",
+    "English": " Contact",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Liên hệ"
+  },
+  {
+    "setting_id": 58,
+    "key": " Voice message",
+    "English": " Voice message",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Âm thanh tin nhắn"
+  },
+  {
+    "setting_id": 59,
+    "key": " Link",
+    "English": " Link",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Liên kết"
+  },
+  {
+    "setting_id": 60,
+    "key": "GIF",
+    "English": "GIF",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "GIF"
+  },
+  {
+    "setting_id": 61,
+    "key": " Video",
+    "English": " Video",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Video"
+  },
+  {
+    "setting_id": 62,
+    "key": " Location",
+    "English": " Location",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Vị trí"
+  },
+  {
+    "setting_id": 63,
+    "key": " Photo",
+    "English": " Photo",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Ảnh"
+  },
+  {
+    "setting_id": 64,
+    "key": "Archive list",
+    "English": "Archive list",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Danh sách lưu trữ"
+  },
+  {
+    "setting_id": 65,
+    "key": "Search User",
+    "English": "Search User",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Tìm kiếm người dùng"
+  },
+  {
+    "setting_id": 66,
+    "key": "Unarchive",
+    "English": "Unarchive",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Bỏ lưu trữ"
+  },
+  {
+    "setting_id": 67,
+    "key": "Type Message",
+    "English": "Type Message",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Nhập tin nhắn"
+  },
+  {
+    "setting_id": 68,
+    "key": "Something Error1",
+    "English": "Something Error1",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Lỗi"
+  },
+  {
+    "setting_id": 69,
+    "key": "File",
+    "English": "File",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Tệp"
+  },
+  {
+    "setting_id": 70,
+    "key": "Photo",
+    "English": "Photo",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Ảnh"
+  },
+  {
+    "setting_id": 71,
+    "key": "Video",
+    "English": "Video",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Video"
+  },
+  {
+    "setting_id": 72,
+    "key": "Location",
+    "English": "Location",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Vị trí"
+  },
+  {
+    "setting_id": 73,
+    "key": "No microphone permission",
+    "English": "No microphone permission",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Không có quyền truy cập micro"
+  },
+  {
+    "setting_id": 74,
+    "key": "Send",
+    "English": "Send",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Gửi"
+  },
+  {
+    "setting_id": 75,
+    "key": "Start",
+    "English": "Start",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Bắt đầu"
+  },
+  {
+    "setting_id": 76,
+    "key": "Selected video file size should be less than 10MB",
+    "English": "Selected video file size should be less than 10MB",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Kích thước tệp video đã chọn phải nhỏ hơn 10MB"
+  },
+  {
+    "setting_id": 77,
+    "key": "Copy",
+    "English": "Copy",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Sao chép"
+  },
+  {
+    "setting_id": 78,
+    "key": "Reply",
+    "English": "Reply",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Trả lời"
+  },
+  {
+    "setting_id": 79,
+    "key": "Forward",
+    "English": "Forward",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Chuyển tiếp"
+  },
+  {
+    "setting_id": 80,
+    "key": "Delete",
+    "English": "Delete",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Xóa"
+  },
+  {
+    "setting_id": 81,
+    "key": "Unstar Message",
+    "English": "Unstar Message",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Bỏ đánh dấu tin nhắn"
+  },
+  {
+    "setting_id": 82,
+    "key": "Star Message",
+    "English": "Star Message",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Đánh dấu tin nhắn"
+  },
+  {
+    "setting_id": 83,
+    "key": "0 Page - 0 KB",
+    "English": "0 Page - 0 KB",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "0 Trang - 0 KB"
+  },
+  {
+    "setting_id": 84,
+    "key": "No PDF info available",
+    "English": "No PDF info available",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Không có thông tin PDF"
+  },
+  {
+    "setting_id": 85,
+    "key": "View contact",
+    "English": "View contact",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Xem liên hệ"
+  },
+  {
+    "setting_id": 86,
+    "key": "Online",
+    "English": "Online",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Trực tuyến"
+  },
+  {
+    "setting_id": 87,
+    "key": "  What are you looking for?",
+    "English": "  What are you looking for?",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Bạn đang tìm kiếm gì?"
+  },
+  {
+    "setting_id": 88,
+    "key": "Are you sure you want to Unblock?",
+    "English": "Are you sure you want to Unblock?",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Bạn có chắc chắn muốn bỏ chặn?"
+  },
+  {
+    "setting_id": 89,
+    "key": "Are you sure you want to Block?",
+    "English": "Are you sure you want to Block?",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Bạn có chắc chắn muốn chặn?"
+  },
+  {
+    "setting_id": 90,
+    "key": "Are you sure you want to unblock profile of  ",
+    "English": "Are you sure you want to unblock profile of  ",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Bạn có chắc chắn muốn bỏ chặn hồ sơ của"
+  },
+  {
+    "setting_id": 91,
+    "key": "Are you sure you want to block profile of  ",
+    "English": "Are you sure you want to block profile of  ",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Bạn có chắc chắn muốn chặn hồ sơ của"
+  },
+  {
+    "setting_id": 92,
+    "key": "UnBlock Contact",
+    "English": "UnBlock Contact",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Bỏ chặn liên hệ"
+  },
+  {
+    "setting_id": 93,
+    "key": "Block Contact",
+    "English": "Block Contact",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Chặn liên hệ"
+  },
+  {
+    "setting_id": 94,
+    "key": "Clear chat",
+    "English": "Clear chat",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Xóa cuộc trò chuyện"
+  },
+  {
+    "setting_id": 95,
+    "key": "Search chat",
+    "English": "Search chat",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Tìm kiếm cuộc trò chuyện"
+  },
+  {
+    "setting_id": 96,
+    "key": "Add Participants",
+    "English": "Add Participants",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Thêm thành viên"
+  },
+  {
+    "setting_id": 97,
+    "key": "Please select member",
+    "English": "Please select member",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Vui lòng chọn thành viên"
+  },
+  {
+    "setting_id": 98,
+    "key": "Next",
+    "English": "Next",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Tiếp theo"
+  },
+  {
+    "setting_id": 99,
+    "key": "Frequently Contacted",
+    "English": "Frequently Contacted",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Liên hệ thường xuyên"
+  },
+  {
+    "setting_id": 100,
+    "key": "Search name or number",
+    "English": "Search name or number",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Tìm kiếm tên hoặc số"
+  },
+  {
+    "setting_id": 101,
+    "key": "Send to",
+    "English": "Send to",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Gửi đến"
+  },
+  {
+    "setting_id": 102,
+    "key": "Contacts on ChatWeb",
+    "English": "Contacts on ChatWeb",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Liên hệ trên ChatWeb"
+  },
+  {
+    "setting_id": 103,
+    "key": "  All Call",
+    "English": "  All Call",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Tất cả cuộc gọi"
+  },
+  {
+    "setting_id": 104,
+    "key": "   Missed Call",
+    "English": "   Missed Call     ",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Cuộc gọi nhỡ"
+  },
+  {
+    "setting_id": 105,
+    "key": "  All",
+    "English": "  All",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Tất cả"
+  },
+  {
+    "setting_id": 106,
+    "key": "Video Call",
+    "English": "Video Call",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Gọi video"
+  },
+  {
+    "setting_id": 107,
+    "key": "   Missed  ",
+    "English": "   Missed",
+    "createdAt": "2025-03-18 09:33:18",
+    "updatedAt": "2025-03-18 09:33:18",
+    "Việt Nam": "Nhỡ"
+  },
+  {
+    "setting_id": 108,
+    "key": "Invite Friend to Chatweb ",
+    "English": "Invite Friend to Chatweb ",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Mời bạn bè tham gia Chatweb"
+  },
+  {
+    "setting_id": 109,
+    "key": "Please wait...!",
+    "English": "Please wait...!",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Vui lòng đợi...!"
+  },
+  {
+    "setting_id": 110,
+    "key": "Invite",
+    "English": "Invite",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Mời"
+  },
+  {
+    "setting_id": 111,
+    "key": "Contact on Chatweb",
+    "English": "Contact on Chatweb",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Liên hệ trên Chatweb"
+  },
+  {
+    "setting_id": 112,
+    "key": "Group Info",
+    "English": "Group Info",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Thông tin nhóm"
+  },
+  {
+    "setting_id": 113,
+    "key": "About",
+    "English": "About",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Giới thiệu"
+  },
+  {
+    "setting_id": 114,
+    "key": "Starred Messages",
+    "English": "Starred Messages",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Tin nhắn được đánh dấu"
+  },
+  {
+    "setting_id": 115,
+    "key": "Block Contacts",
+    "English": "Block Contacts",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Chặn liên hệ"
+  },
+  {
+    "setting_id": 116,
+    "key": "Tell a friend",
+    "English": "Tell a friend",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Trò chuyện với bạn bè"
+  },
+  {
+    "setting_id": 117,
+    "key": "Share a link",
+    "English": "Share a link",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Chia sẻ liên kết"
+  },
+  {
+    "setting_id": 118,
+    "key": "Logout",
+    "English": "Logout",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Đăng xuất"
+  },
+  {
+    "setting_id": 119,
+    "key": "Are you sure you want to delete your account?",
+    "English": "Are you sure you want to delete your account?",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Bạn có chắc chắn muốn xóa tài khoản của mình?"
+  },
+  {
+    "setting_id": 120,
+    "key": "YES",
+    "English": "YES",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "CÓ"
+  },
+  {
+    "setting_id": 121,
+    "key": "NO",
+    "English": "NO",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "KHÔNG"
+  },
+  {
+    "setting_id": 122,
+    "key": "Currently set to",
+    "English": "Currently set to",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Hiện đang được đặt là"
+  },
+  {
+    "setting_id": 123,
+    "key": "Write Something...",
+    "English": "Write Something...",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Viết gì đó..."
+  },
+  {
+    "setting_id": 124,
+    "key": "Select your About",
+    "English": "Select your About",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Chọn về bạn"
+  },
+  {
+    "setting_id": 125,
+    "key": "Update",
+    "English": "Update",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Cập nhật"
+  },
+  {
+    "setting_id": 126,
+    "key": "Edit",
+    "English": "Edit",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Chỉnh sửa"
+  },
+  {
+    "setting_id": 127,
+    "key": "No starred Messages",
+    "English": "No starred Messages",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Không có tin nhắn nào được đánh dấu"
+  },
+  {
+    "setting_id": 128,
+    "key": "Tap and hold on any message to star it, so you can easily find it later.",
+    "English": "Tap and hold on any message to star it, so you can easily find it later.",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Nhấn và giữ bất kỳ tin nhắn nào để đánh dấu nó, để bạn có thể dễ dàng tìm thấy nó sau này."
+  },
+  {
+    "setting_id": 129,
+    "key": "You",
+    "English": "You",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Bạn"
+  },
+  {
+    "setting_id": 130,
+    "key": "Message",
+    "English": "Message",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Tin nhắn"
+  },
+  {
+    "setting_id": 131,
+    "key": "Block List",
+    "English": "Block List",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Danh sách chặn"
+  },
+  {
+    "setting_id": 132,
+    "key": "Tell a friend",
+    "English": "Tell a friend",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Trò chuyện với bạn bè"
+  },
+  {
+    "setting_id": 133,
+    "key": "CONTACTS",
+    "English": "CONTACTS",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Liên hệ"
+  },
+  {
+    "setting_id": 134,
+    "key": "User blocked, not able to voice call",
+    "English": "User blocked, not able to voice call",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Người dùng bị chặn, không thể gọi thoại"
+  },
+  {
+    "setting_id": 135,
+    "key": "Audio",
+    "English": "Audio",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Âm thanh"
+  },
+  {
+    "setting_id": 136,
+    "key": "User blocked, not able to video call",
+    "English": "User blocked, not able to video call",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Người dùng bị chặn, không thể gọi video"
+  },
+  {
+    "setting_id": 137,
+    "key": "Media, links and docs",
+    "English": "Media, links and docs",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Phương tiện truyền thông, liên kết và tài liệu"
+  },
+  {
+    "setting_id": 138,
+    "key": "You haven't share any media",
+    "English": "You haven't share any media",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Bạn chưa chia sẻ bất kỳ phương tiện truyền thông nào"
+  },
+  {
+    "setting_id": 139,
+    "key": "Started Messages",
+    "English": "Started Messages",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Bắt đầu tin nhắn"
+  },
+  {
+    "setting_id": 140,
+    "key": "      Media        ",
+    "English": "      Media        ",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Phương tiện truyền thông"
+  },
+  {
+    "setting_id": 141,
+    "key": "      Links       ",
+    "English": "      Links ",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Liên kết"
+  },
+  {
+    "setting_id": 142,
+    "key": " Docs",
+    "English": " Docs",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Tài liệu"
+  },
+  {
+    "setting_id": 143,
+    "key": "You haven't share any media with ",
+    "English": "You haven't share any media with ",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Bạn chưa chia sẻ bất kỳ phương tiện truyền thông nào với"
+  },
+  {
+    "setting_id": 144,
+    "key": "You haven't share any link with ",
+    "English": "You haven't share any link with ",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Bạn chưa chia sẻ liên kết nào với"
+  },
+  {
+    "setting_id": 145,
+    "key": "You haven't share any doc with ",
+    "English": "You haven't share any doc with ",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Bạn chưa chia sẻ tài liệu nào với"
+  },
+  {
+    "setting_id": 146,
+    "key": "Status",
+    "English": "Status",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Trạng thái"
+  },
+  {
+    "setting_id": 147,
+    "key": "My Story",
+    "English": "My Story",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Story của tôi"
+  },
+  {
+    "setting_id": 148,
+    "key": "Tap to add your story",
+    "English": "Tap to add your story",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Nhập để thêm story của bạn"
+  },
+  {
+    "setting_id": 149,
+    "key": "Your Story hasn't been viewed by any users yet.",
+    "English": "Your Story hasn't been viewed by any users yet.",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Story của bạn chưa được người dùng nào xem"
+  },
+  {
+    "setting_id": 150,
+    "key": "View By ",
+    "English": "View By ",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Xem bởi"
+  },
+  {
+    "setting_id": 151,
+    "key": "Are you sure you want to delete your status?",
+    "English": "Are you sure you want to delete your status?",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Bạn có chắc chắn muốn xóa trạng thái của mình?"
+  },
+  {
+    "setting_id": 152,
+    "key": "Are you sure you want to Delete?",
+    "English": "Are you sure you want to Delete?",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Bạn có chắc chắn muốn xóa?"
+  },
+  {
+    "setting_id": 153,
+    "key": "Type reply...",
+    "English": "Type reply...",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Nhập trả lời..."
+  },
+  {
+    "setting_id": 154,
+    "key": "Audio Calling",
+    "English": "Audio Calling",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Gọi âm thanh"
+  },
+  {
+    "setting_id": 155,
+    "key": "End-to-end encrypted",
+    "English": "End-to-end encrypted",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Được mã hóa từ đầu đến cuối"
+  },
+  {
+    "setting_id": 156,
+    "key": "Group exit",
+    "English": "Group exit",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Thoát nhóm"
+  },
+  {
+    "setting_id": 157,
+    "key": "Exit",
+    "English": "Exit",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Thoát"
+  },
+  {
+    "setting_id": 158,
+    "key": " Group Members",
+    "English": " Group Members",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Thành viên nhóm"
+  },
+  {
+    "setting_id": 159,
+    "key": "Admin",
+    "English": "Admin",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Quản trị viên"
+  },
+  {
+    "setting_id": 160,
+    "key": "Remove from group",
+    "English": "Remove from group",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Xoá khỏi nhóm"
+  },
+  {
+    "setting_id": 161,
+    "key": "Group edit",
+    "English": "Group edit",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Chỉnh sửa nhóm"
+  },
+  {
+    "setting_id": 162,
+    "key": "Group Profile",
+    "English": "Group Profile",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Hồ sơ nhóm"
+  },
+  {
+    "setting_id": 163,
+    "key": "Group Name Change",
+    "English": "Group Name Change",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Đổi tên nhóm"
+  },
+  {
+    "setting_id": 164,
+    "key": "No image selected.",
+    "English": "No image selected.",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Không có hình ảnh nào được chọn."
+  },
+  {
+    "setting_id": 165,
+    "key": "Create",
+    "English": "Create",
+    "createdAt": "2025-03-18 09:33:19",
+    "updatedAt": "2025-03-18 09:33:19",
+    "Việt Nam": "Tạo"
+  },
+  {
+    "setting_id": 166,
+    "key": "Recent contacts",
+    "English": "Recent contacts",
+    "createdAt": "2025-03-18 09:33:20",
+    "updatedAt": "2025-03-18 09:33:20",
+    "Việt Nam": "Liên hệ gần đây"
+  },
+  {
+    "setting_id": 167,
+    "key": "Contacts on Unimonollc",
+    "English": "Contacts on Unimonollc",
+    "createdAt": "2025-03-18 09:33:20",
+    "updatedAt": "2025-03-18 09:33:20",
+    "Việt Nam": "Liên hệ trên Unimonollc"
+  },
+  {
+    "setting_id": 168,
+    "key": "Enter group name",
+    "English": "Enter group name",
+    "createdAt": "2025-03-18 09:33:20",
+    "updatedAt": "2025-03-18 09:33:20",
+    "Việt Nam": "Nhập tên nhóm"
+  },
+  {
+    "setting_id": 169,
+    "key": "Set group profile",
+    "English": "Set group profile",
+    "createdAt": "2025-03-18 09:33:20",
+    "updatedAt": "2025-03-18 09:33:20",
+    "Việt Nam": "Đặt hồ sơ nhóm"
+  },
+  {
+    "setting_id": 170,
+    "key": "Please add member",
+    "English": "Please add member",
+    "createdAt": "2025-03-18 09:33:20",
+    "updatedAt": "2025-03-18 09:33:20",
+    "Việt Nam": "Vui lòng thêm thành viên"
+  },
+  {
+    "setting_id": 171,
+    "key": "Group Name",
+    "English": "Group Name",
+    "createdAt": "2025-03-18 09:33:20",
+    "updatedAt": "2025-03-18 09:33:20",
+    "Việt Nam": "Tên nhóm"
+  },
+  {
+    "setting_id": 172,
+    "key": "Admin added ",
+    "English": "Admin added ",
+    "createdAt": "2025-03-18 09:33:20",
+    "updatedAt": "2025-03-18 09:33:20",
+    "Việt Nam": "Quản trị viên đã thêm"
+  },
+  {
+    "setting_id": 173,
+    "key": "Admin removed you",
+    "English": "Admin removed you",
+    "createdAt": "2025-03-18 09:33:20",
+    "updatedAt": "2025-03-18 09:33:20",
+    "Việt Nam": "Quản trị viên đã xóa bạn"
+  },
+  {
+    "setting_id": 174,
+    "key": "Admin removed ",
+    "English": "Admin removed ",
+    "createdAt": "2025-03-18 09:33:20",
+    "updatedAt": "2025-03-18 09:33:20",
+    "Việt Nam": "Quản trị viên đã xóa"
+  },
+  {
+    "setting_id": 175,
+    "key": "Chat",
+    "English": "Chat",
+    "createdAt": "2025-03-18 09:33:20",
+    "updatedAt": "2025-03-18 09:33:20",
+    "Việt Nam": "Trò chuyện"
+  },
+  {
+    "setting_id": 176,
+    "key": "Call",
+    "English": "Call",
+    "createdAt": "2025-03-18 09:33:20",
+    "updatedAt": "2025-03-18 09:33:20",
+    "Việt Nam": "Gọi"
+  },
+  {
+    "setting_id": 177,
+    "key": "Contact",
+    "English": "Contact",
+    "createdAt": "2025-03-18 09:33:20",
+    "updatedAt": "2025-03-18 09:33:20",
+    "Việt Nam": "Liên hệ"
+  },
+  {
+    "setting_id": 178,
+    "key": "Resend Code in",
+    "English": "Resend Code in",
+    "createdAt": "2025-03-18 09:33:20",
+    "updatedAt": "2025-03-18 09:33:20",
+    "Việt Nam": "Gửi lại mã trong"
+  },
+  {
+    "setting_id": 179,
+    "key": "Wait for a",
+    "English": "Wait for a",
+    "createdAt": "2025-03-18 09:33:20",
+    "updatedAt": "2025-03-18 09:33:20",
+    "Việt Nam": "Đợi một"
+  },
+  {
+    "setting_id": 180,
+    "key": "Contact Details",
+    "English": "Contact Details",
+    "createdAt": "2025-03-18 09:33:20",
+    "updatedAt": "2025-03-18 09:33:20",
+    "Việt Nam": "Chi tiết liên hệ"
+  }
+]

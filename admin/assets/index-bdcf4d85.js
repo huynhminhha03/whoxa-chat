@@ -31445,12 +31445,10 @@ var xG = (function () {
                 o(a.currentResult);
               }),
             i.cache &&
-              a.client
-                .getQueryCache()
-                .notify({
-                  query: a.currentQuery,
-                  type: "observerResultsUpdated",
-                });
+              a.client.getQueryCache().notify({
+                query: a.currentQuery,
+                type: "observerResultsUpdated",
+              });
         });
       }),
       t

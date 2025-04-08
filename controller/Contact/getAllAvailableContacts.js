@@ -1,14 +1,13 @@
 const jwt = require("jsonwebtoken");
 const { User, AllContact } = require("../../models");
 const { Op, where } = require("sequelize");
-let jwtSecretKey = process.env.JWT_SECRET_KEY;
 
 const getAllAvailableContacts = async (req, res) => {
   try {
     let { contact_list } = req.body;
     console.log(req.body);
     const user_id = req.authData.user_id;
-
+    console.log("user_id", user_id);
     // Kiểm tra dữ liệu đầu vào
     if (!contact_list) {
       return res.status(400).json({ error: "contact_list is required" });

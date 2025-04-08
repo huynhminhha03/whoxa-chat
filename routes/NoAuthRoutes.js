@@ -34,6 +34,7 @@ router.post("/fetch-default-language", FetchDefaultLanguage);
 router.post("/get-privacy-policy", getPrivacyPrivacyPolicy);
 router.post("/get-tncs", getTermsAndConditions);
 
+
 router.post(
   "/fetch-keywords-with-translation",
   FetchLanguageKeywordsWithTranslation

@@ -14,6 +14,7 @@ module.exports = (sequelize, DataTypes) => {
       type: DataTypes.STRING,
       defaultValue: "",
     },
+    
   });
 
   AllContact.associate = function (models) {
